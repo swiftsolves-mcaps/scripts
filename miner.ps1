@@ -1,4 +1,4 @@
-PowerShell# Sample script to simulate crypto-mining deployment for security demos
+# PowerShell Sample script to simulate crypto-mining deployment for security demos
 # Downloads XMRig but uses an invalid pool to prevent actual mining
 
 try {
